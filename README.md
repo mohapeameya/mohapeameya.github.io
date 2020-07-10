@@ -1,2 +1,2 @@
 # My permanent profile page using GitHub Pages
-## Thanks GitHub
+Thank you GitHub
