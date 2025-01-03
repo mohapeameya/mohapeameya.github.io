@@ -17,6 +17,6 @@ function getCopyright(){
     var date = new Date();
     var currentYear = date.getFullYear();
     var companyName = "Ameya Mohape";
-    var cp = "&copy; Copyright "+ currentYear + ", " + companyName;
+    var cp = "&copy; Copyright 2020-"+ currentYear + ", " + companyName;
     document.getElementById("copyright").innerHTML = cp;
 }
